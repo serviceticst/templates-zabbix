@@ -6,7 +6,7 @@
 [Clique aqui](https://youtu.be/)
 
 ### Download
-- [Clique aqui](https://raw.githubusercontent.com/serviceticst/) 
+- [Clique aqui](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip) 
 
 ### Funcionalidades
 - Verificação periódica de versões de repositórios.
@@ -23,7 +23,7 @@
 [Clique aqui](https://youtu.be/)
 
 ### Download
-- [Clique aqui](https://raw.githubusercontent.com/serviceticst/) 
+- [Clique aqui](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip) 
 
 ### Features
 - Periodic checking of repository versions.
