@@ -3,7 +3,7 @@
 - A cada release, disponibilizamos novos templates e possíveis atualizações dos existentes.
 
 ### 📋 Lista de Templates
-- [1.0.0: Template para monitoramento de versões em repositórios do GitHub]([https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip](https://github.com/serviceticst/templates-zabbix/releases))
+- [1.0.0: Template para monitoramento de versões em repositórios do GitHub](https://github.com/serviceticst/templates-zabbix/releases)
 
 ***
 
@@ -15,8 +15,8 @@
 - [1.0.0: Template to monitor versions in GitHub repositories](https://github.com/serviceticst/templates-zabbix/releases)
 
 ***
+### Desenvolvido por: Service TIC Soluções Tecnológicas (Developed by: Service TIC Technological Solutions)
 
-### Developed by: Service TIC Soluções Tecnológicas
 - [![E-mail](https://img.icons8.com/ios-filled/16/ffffff/mail.png)](mailto:contato@servicetic.com.br) **E-mail**: [contato@servicetic.com.br](mailto:contato@servicetic.com.br)
 - [![Website](https://img.icons8.com/ios-filled/16/ffffff/domain.png)](http://www.servicetic.com.br) **Site**: [www.servicetic.com.br](http://www.servicetic.com.br)
 - [![LinkedIn](https://img.icons8.com/ios-filled/16/ffffff/linkedin-circled.png)](https://www.linkedin.com/company/serviceticst) **LinkedIn**: [@serviceticst](https://www.linkedin.com/company/serviceticst)
