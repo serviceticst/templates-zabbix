@@ -1,35 +1,18 @@
-## Template para monitorar versões em repositórios do GitHub
-- Este template foi desenvolvido para monitorar versões de repositórios do GitHub. Ele permite acompanhar atualizações de versões (releases) em projetos hospedados na plataforma GitHub, sendo ideal para equipes de DevOps, administradores de sistemas ou qualquer pessoa que precise ser notificada sobre novas versões de softwares.
+# Templates Zabbix desenvolvidos pela Service TIC
+- Este repositório contém templates do Zabbix desenvolvidos pela equipe da Service TIC.
+- A cada release, disponibilizamos novos templates e possíveis atualizações dos existentes.
 
-### Passo a Passo
-- Para assistir ao tutorial completo:
-[Clique aqui](https://youtu.be/)
-
-### Download
-- [Clique aqui](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip) 
-
-### Funcionalidades
-- Verificação periódica de versões de repositórios.
-- Suporte a múltiplos repositórios GitHub.
-- Notificação quando uma nova versão é lançada no repositório.
+### 📦 Lista de Templates
+- [1.0.0: Template para monitoramento de versões em repositórios do GitHub](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip)
 
 ***
 
-## Template to Monitor GitHub Repository Versions
-- This template was developed to monitor the version releases of GitHub repositories. It allows you to track updates (releases) in projects hosted on GitHub, making it ideal for DevOps teams, system administrators, or anyone who needs to be notified about new software versions.
+## Zabbix Templates developed by Service TIC
+- This repository contains Zabbix templates created by the Service TIC team.
+- Each release includes new templates and potential updates to existing ones.
 
-### Step-by-Step Guide
-- To watch the full tutorial:
-[Clique aqui](https://youtu.be/)
-
-### Download
-- [Clique aqui](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip) 
-
-### Features
-- Periodic checking of repository versions.
-- Support for multiple GitHub repositories.
-- Notification when a new version is released in the repository.
-
+### 📦 Template List
+- [1.0.0: Template to monitor versions in GitHub repositories](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip)
 
 ***
 
