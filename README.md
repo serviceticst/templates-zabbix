@@ -3,7 +3,7 @@
 - A cada release, disponibilizamos novos templates e possíveis atualizações dos existentes.
 
 ### 📋 Lista de Templates
-- [1.0.0: Template para monitoramento de versões em repositórios do GitHub](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip)
+- [1.0.0: Template para monitoramento de versões em repositórios do GitHub]([https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip](https://github.com/serviceticst/templates-zabbix/releases))
 
 ***
 
@@ -12,7 +12,7 @@
 - Each release includes new templates and potential updates to existing ones.
 
 ### 📋 Template List
-- [1.0.0: Template to monitor versions in GitHub repositories](https://github.com/serviceticst/templates-zabbix/releases/download/1.0.0/TEMPLATE_API_GITHUB_VERSOES_ZABBIX_7_0_11_SERVICE_TIC.zip)
+- [1.0.0: Template to monitor versions in GitHub repositories](https://github.com/serviceticst/templates-zabbix/releases)
 
 ***
 
