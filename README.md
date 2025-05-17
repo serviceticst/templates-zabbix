@@ -1,4 +1,4 @@
-# 🧩 Templates Zabbix desenvolvidos pela Service TIC
+# 🇧🇷 🧩 Templates Zabbix desenvolvidos pela Service TIC
 - Este repositório contém templates do Zabbix desenvolvidos pela equipe da Service TIC.
 - A cada release, disponibilizamos novos templates e possíveis atualizações dos existentes.
 
@@ -8,7 +8,7 @@
 
 ***
 
-## Zabbix Templates developed by Service TIC
+## 🇺🇸 🧩 Zabbix Templates developed by Service TIC
 - This repository contains Zabbix templates created by the Service TIC team.
 - Each release includes new templates and potential updates to existing ones.
 
