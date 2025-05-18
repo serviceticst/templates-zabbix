@@ -3,7 +3,7 @@
 - A cada release, disponibilizamos novos templates e possíveis atualizações dos existentes.
 
 ### 📋 Lista de Templates
-- 📥 [1.0.0: Template para monitoramento de versões em repositórios do GitHub](https://github.com/serviceticst/templates-zabbix/releases/tag/1.0.0)
+- 📥 [1.0.0: Monitoramento de versões em repositórios do GitHub](https://github.com/serviceticst/templates-zabbix/releases/tag/1.0.0)
 - 📥 [1.1.0: Integração do Zabbix com GLPI para abertura de chamado](https://github.com/serviceticst/templates-zabbix/releases/tag/1.1.0)
 
 ***
@@ -13,7 +13,7 @@
 - Each release includes new templates and potential updates to existing ones.
 
 ### 📋 Template List
-- 📥 [1.0.0: Template to monitor versions in GitHub repositories](https://github.com/serviceticst/templates-zabbix/releases)
+- 📥 [1.0.0: Monitor versions in GitHub repositories](https://github.com/serviceticst/templates-zabbix/releases)
 - 📥 [1.1.0: Zabbix Integration with GLPI for Ticket Creation](https://github.com/serviceticst/templates-zabbix/releases/tag/1.1.0)
 
 
