@@ -1,4 +1,4 @@
-# 🇧🇷 🧩 Templates [Zabbix](https://www.zabbix.com) desenvolvidos pela Service TIC
+# <img src="https://flagcdn.com/w40/br.png" width="40"> 🧩 Templates [Zabbix](https://www.zabbix.com) desenvolvidos pela Service TIC
 - Este repositório contém templates do Zabbix desenvolvidos pela equipe da Service TIC.
 - A cada release, disponibilizamos novos templates e possíveis atualizações dos existentes.
 
@@ -8,7 +8,7 @@
 
 ***
 
-## 🇺🇸 🧩 [Zabbix](https://www.zabbix.com) Templates developed by Service TIC
+## <img src="https://flagcdn.com/w40/us.png" width="40"> 🧩 [Zabbix](https://www.zabbix.com) Templates developed by Service TIC
 - This repository contains Zabbix templates created by the Service TIC team.
 - Each release includes new templates and potential updates to existing ones.
 
